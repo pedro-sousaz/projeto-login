@@ -18,6 +18,11 @@
     --cor2: #5f2c82;
 }
 
+body{
+    background-image: linear-gradient(to top, #49a09d, #5f2c82);
+    background-repeat: no-repeat;
+}
+
 body, html{
     background-color: #5f2c82;
     height: 100vh;
