@@ -158,6 +158,10 @@ form > a.botao > i {
     font-size: 0.8em;
 }
 
+footer{
+    margin-left: 20px;
+}
+
 /*
 body{
     background-image: linear-gradient(to bottom, #49a09d, #5f2c82);
